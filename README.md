@@ -8,7 +8,7 @@ Data Structures Operations implemented using `C++` :
 * Circular Queue
 * Priority Queue
 * Singly Linked Lists
-* Circular Singly Linked Lists
+* Circular Singly Linked Lists 
 * Binary Tree
 * Binary Search Tree
 
