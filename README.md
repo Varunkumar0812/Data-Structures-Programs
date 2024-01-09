@@ -26,4 +26,3 @@ Also includes programs on Searching and Sorting of arrays :
 * Bubble Sort
 * Selection Sort
 * Shell Sort
-* 
